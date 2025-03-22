@@ -1,0 +1,13 @@
+.big_title{
+    justify-content: center;
+    text-align: center;
+}
+
+.split{
+    border: 1px solid black;
+}
+
+.details{
+    margin: 3px;
+    text-align: center;
+}
